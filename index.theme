@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=OmNu-Ice-dark
+Comment=This Numix clone is the dark version of OmNu-Ice. It features a dark and cool color scheme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=OmNu-Ice-dark
+GtkTheme=OmNu-Ice-dark
+IconTheme=OmNu-Ice-dark
+MetacityTheme=OmNu-Ice-dark
