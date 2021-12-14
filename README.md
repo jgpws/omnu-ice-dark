@@ -19,7 +19,7 @@ For this theme, I added a few styling adjustments to make it more modern.
 
 1. Follow steps 1-5 above
 2. `cd /usr/share/themes`
-3. `sudo cp -r ~/Downloads/JGD-Black /usr/share/themes`
+3. `sudo cp -r ~/Downloads/OmNu-Ice-dark /usr/share/themes`
 4. Enter sudo password
 5. `ls` to check that the theme folder is present
 
