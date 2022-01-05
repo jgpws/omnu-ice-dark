@@ -129,10 +129,6 @@ GeditViewFrame .gedit-search-slider .not-found:selected, .gedit-document-panel-d
   *:link, *:visited {
     color: #213b57; }
 
-window {
-	font-family: "Source Sans Pro", sans-serif;
-}
-
 .background {
   background-color: #3e4e60;
   color: #d4d4d4; }
