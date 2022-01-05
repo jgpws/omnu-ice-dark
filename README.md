@@ -3,6 +3,8 @@ This Numix clone is the dark version of OmNu-Ice. It features a dark and cool co
 
 For this theme, I added a few styling adjustments to make it more modern.
 
+* [Theme Homepage](https://www.jasong-designs.com/2022/01/01/omnu-ice-theme-collection/)
+
 ## How to Install
 
 1. Download the latest file from the [downloads](https://github.com/jgpws/omnu-ice-dark/tree/main/downloads) directory
