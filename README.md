@@ -3,6 +3,8 @@ This Numix clone is the dark version of OmNu-Ice. It features a dark and cool co
 
 For this theme, I added a few styling adjustments to make it more modern.
 
+* [Theme Homepage](https://www.jasong-designs.com/2022/01/01/omnu-ice-theme-collection/)
+
 ## How to Install
 
 1. Download the latest file from the [downloads](https://github.com/jgpws/omnu-ice-dark/tree/main/downloads) directory
@@ -25,7 +27,27 @@ For this theme, I added a few styling adjustments to make it more modern.
 
 ### To install on Arch Linux:
 
-Coming soon...
+OmNu-Ice-dark can be installed from the Arch User Repository via a package helper, such as [Yay](https://github.com/Jguer/yay):
+
+```yay -S omnu-ice-dark```
+
+---
+
+### Fonts
+
+The font used in the homepage screenshots is [Source Sans Pro](https://www.fontsquirrel.com/fonts/source-sans-pro) for the main theme.
+
+To change the font, you can use [LXAppearance](https://wiki.lxde.org/en/LXAppearance) *or* set the GTK theme font by editing two files.
+
+For GTK2, create the following file,
+
+**~/.gtkrc-2.0.mine** and add:
+
+```gtk-font-name="Source Sans Pro 10"```
+
+In the file **~/.config/gtk-3.0/settings.ini**, add:
+
+```gtk-font-name=Source Sans Pro 10```
 
 ---
 
