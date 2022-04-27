@@ -131,7 +131,10 @@
 </draw_ops>
 
 <draw_ops name="titlebar_fill_unfocused">
-	<include name="entire_background_unfocused" />
+	<gradient type="vertical" x="0" y="0" width="width" height="height">
+		<color value="#4e6278" />
+		<color value="#2f3b48" />
+	</gradient>
 </draw_ops>
 
 <draw_ops name="titlebar_fill_attached_focused">
