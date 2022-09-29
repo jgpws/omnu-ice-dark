@@ -7746,6 +7746,31 @@ GtkWindow > GtkVBox > .dock, GtkWindow > GtkVBox > .dock > GtkHBox > GtkToolbar 
   .xfce4-panel menu {
     -gtk-icon-effect: none;
     text-shadow: none; }
+    
+#clock-button,
+wnck-pager,
+#sn-button,
+#xfce-notification-plugin {
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.xfce4-panel .tasklist .toggle {
+  border-radius: 16px;
+  margin: 2px;
+}
+
+.xfce4-panel .tasklist .toggle:hover {
+	background-color: #2b5b8d;
+   background-image: linear-gradient(to bottom, #3672b0, #20446a);
+   border-color: rgba(154, 154, 154, 0.3);
+}
+
+.xfce4-panel .tasklist .toggle:checked {
+	background-color: #576e86;
+   background-image: linear-gradient(to top, #728aa3, #415365);
+   color: #f0f0f0;
+}
 
 /***********************
  ! Fallback mode panel *
