@@ -834,9 +834,9 @@ headerbar {
   headerbar switch {
     margin-top: 4px;
     margin-bottom: 4px; }
-  window:not(.tiled):not(.maximized) separator:first-child + headerbar, window:not(.tiled):not(.maximized) headerbar:first-child {
+  window:not(.tiled):not(.maximized) separator:first-child + headerbar, window:not(.tiled):not(.maximized):not(.solid-csd) headerbar:first-child {
     border-top-left-radius: 16px; }
-  window:not(.tiled):not(.maximized) headerbar:last-child {
+  window:not(.tiled):not(.maximized):not(.solid-csd) headerbar:last-child {
     border-top-right-radius: 16px; }
 
 .titlebar:not(headerbar), headerbar {
